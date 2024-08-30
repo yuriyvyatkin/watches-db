@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Fossil Watch",
+    "description": "A classic Fossil watch featuring a brown leather strap with a refined, traditional look. The dial includes three subdials for added functionality and a touch of sophistication.",
+    "price": 149.99,
+    "rating": 4.7
+  },
+  {
+    "id": 2,
+    "title": "Molniya Watch",
+    "description": "This Molniya timepiece boasts a black leather strap and a clean white dial. It features two subdials and a date window at the bottom center, offering a blend of style and utility.",
+    "price": 179.99,
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "title": "Triwa Falken Watch",
+    "description": "The Triwa Falken watch is water-resistant up to 5 ATM. It comes with a sleek silver dial, a small seconds subdial at the bottom, and a black leather strap with textured crosshatch details.",
+    "price": 199.99,
+    "rating": 4.6
+  },
+  {
+    "id": 4,
+    "title": "LimeStone Quartz Watch",
+    "description": "Featuring a striking blue dial, the LimeStone Quartz watch displays the day of the week and the date on the right side. Its unique design shows yesterday, today, and tomorrow’s dates for added convenience.",
+    "price": 129.99,
+    "rating": 4.3
+  },
+  {
+    "id": 5,
+    "title": "SoldTimerRus Watch",
+    "description": "With a sporty design, this watch from SoldTimerRus features a black dial and a perforated rubber strap. The dial prominently displays 'Tag HEUER FORMULA1 CALIBRE5' at the bottom.",
+    "price": 219.99,
+    "rating": 4.7
+  },
+  {
+    "id": 6,
+    "title": "ORKINA Watch",
+    "description": "The ORKINA watch has a white dial encased in a gold-plated bezel secured by steel screws. The date window is on the right side, magnified for easy reading. It also features a stitched leather strap.",
+    "price": 169.99,
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "title": "FREDERIQUE CONSTANT GENEVE Watch",
+    "description": "A timeless piece from FREDERIQUE CONSTANT GENEVE, this watch has a clean white dial and a slim, black leather strap stitched with matching threads. A perfect example of understated elegance.",
+    "price": 349.99,
+    "rating": 4.9
+  },
+  {
+    "id": 8,
+    "title": "Smart Watch",
+    "description": "This smartwatch offers a range of features including heart rate monitoring, step counting, time, and date display. It comes with a leather strap and a digital display for easy readability.",
+    "price": 129.99,
+    "rating": 4.2
+  },
+  {
+    "id": 9,
+    "title": "Seiko Chronograph 100M Watch",
+    "description": "The Seiko Chronograph 100M watch features a black dial with gold accents. It includes three subdials for minutes, seconds, and an alarm function. The bold design is complemented by a sturdy build.",
+    "price": 299.99,
+    "rating": 4.8
+  },
+  {
+    "id": 10,
+    "title": "Steel Digital Watch",
+    "description": "A sleek, unbranded steel watch with a digital dial. The dial features white digital hands and a red second hand, along with a day and date display at the bottom. It comes with a steel bracelet strap.",
+    "price": 89.99,
+    "rating": 4.1
+  }
+]
